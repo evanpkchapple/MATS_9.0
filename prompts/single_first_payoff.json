@@ -1,0 +1,10 @@
+{
+    "prompt_pairs": [
+    {
+      "clean_prompt": "Option A: $10. Option B: $50. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $90. Option B: $50. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    }
+]
+}

@@ -1,0 +1,40 @@
+{
+  "prompt_pairs": [
+    {
+      "clean_prompt": "Option A: $20. Option B: $50. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $20. Option B: $10. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Option A: $40. Option B: $80. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $40. Option B: $30. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Option A: $30. Option B: $70. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $30. Option B: $20. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Option A: $50. Option B: $90. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $50. Option B: $10. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Option A: $60. Option B: $80. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $60. Option B: $20. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Option A: $40. Option B: $70. The option with the highest expected value is Option",
+      "corrupted_prompt": "Option A: $40. Option B: $30. The option with the highest expected value is Option",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    }
+  ]
+}

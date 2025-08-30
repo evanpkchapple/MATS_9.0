@@ -1,0 +1,148 @@
+{
+  "prompt_pairs": [
+    {
+      "clean_prompt": "Please copy the following character: A. The character is:",
+      "corrupted_prompt": "Please copy the following character: B. The character is:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Please copy the following character: B. The character is:",
+      "corrupted_prompt": "Please copy the following character: A. The character is:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Please copy the following character: X. The character is:",
+      "corrupted_prompt": "Please copy the following character: Y. The character is:",
+      "clean_continuation": " X",
+      "corrupted_continuation": " Y"
+    },
+    {
+      "clean_prompt": "Please copy the following character: Y. The character is:",
+      "corrupted_prompt": "Please copy the following character: X. The character is:",
+      "clean_continuation": " Y",
+      "corrupted_continuation": " X"
+    },
+    {
+      "clean_prompt": "Please copy the following character: *. The character is:",
+      "corrupted_prompt": "Please copy the following character: &. The character is:",
+      "clean_continuation": " *",
+      "corrupted_continuation": " &"
+    },
+    {
+      "clean_prompt": "Please copy the following character: &. The character is:",
+      "corrupted_prompt": "Please copy the following character: *. The character is:",
+      "clean_continuation": " &",
+      "corrupted_continuation": " *"
+    },
+    {
+      "clean_prompt": "Please copy the following character: P. The character is:",
+      "corrupted_prompt": "Please copy the following character: Q. The character is:",
+      "clean_continuation": " P",
+      "corrupted_continuation": " Q"
+    },
+    {
+      "clean_prompt": "Please copy the following character: Q. The character is:",
+      "corrupted_prompt": "Please copy the following character: P. The character is:",
+      "clean_continuation": " Q",
+      "corrupted_continuation": " P"
+    },
+    {
+      "clean_prompt": "Please copy the following character: m. The character is:",
+      "corrupted_prompt": "Please copy the following character: n. The character is:",
+      "clean_continuation": " m",
+      "corrupted_continuation": " n"
+    },
+    {
+      "clean_prompt": "Please copy the following character: n. The character is:",
+      "corrupted_prompt": "Please copy the following character: m. The character is:",
+      "clean_continuation": " n",
+      "corrupted_continuation": " m"
+    },
+    {
+      "clean_prompt": "Please copy the following character: $. The character is:",
+      "corrupted_prompt": "Please copy the following character: %. The character is:",
+      "clean_continuation": " $",
+      "corrupted_continuation": " %"
+    },
+    {
+      "clean_prompt": "Please copy the following character: %. The character is:",
+      "corrupted_prompt": "Please copy the following character: $. The character is:",
+      "clean_continuation": " %",
+      "corrupted_continuation": " $"
+    },
+    {
+      "clean_prompt": "Repeat the following character: A. The character is:",
+      "corrupted_prompt": "Repeat the following character: B. The character is:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Repeat the following character: B. The character is:",
+      "corrupted_prompt": "Repeat the following character: A. The character is:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Repeat the following character: X. The character is:",
+      "corrupted_prompt": "Repeat the following character: Y. The character is:",
+      "clean_continuation": " X",
+      "corrupted_continuation": " Y"
+    },
+    {
+      "clean_prompt": "Repeat the following character: Y. The character is:",
+      "corrupted_prompt": "Repeat the following character: X. The character is:",
+      "clean_continuation": " Y",
+      "corrupted_continuation": " X"
+    },
+    {
+      "clean_prompt": "Repeat the following character: *. The character is:",
+      "corrupted_prompt": "Repeat the following character: &. The character is:",
+      "clean_continuation": " *",
+      "corrupted_continuation": " &"
+    },
+    {
+      "clean_prompt": "Repeat the following character: &. The character is:",
+      "corrupted_prompt": "Repeat the following character: *. The character is:",
+      "clean_continuation": " &",
+      "corrupted_continuation": " *"
+    },
+    {
+      "clean_prompt": "Repeat the following character: P. The character is:",
+      "corrupted_prompt": "Repeat the following character: Q. The character is:",
+      "clean_continuation": " P",
+      "corrupted_continuation": " Q"
+    },
+    {
+      "clean_prompt": "Repeat the following character: Q. The character is:",
+      "corrupted_prompt": "Repeat the following character: P. The character is:",
+      "clean_continuation": " Q",
+      "corrupted_continuation": " P"
+    },
+    {
+      "clean_prompt": "Repeat the following character: m. The character is:",
+      "corrupted_prompt": "Repeat the following character: n. The character is:",
+      "clean_continuation": " m",
+      "corrupted_continuation": " n"
+    },
+    {
+      "clean_prompt": "Repeat the following character: n. The character is:",
+      "corrupted_prompt": "Repeat the following character: m. The character is:",
+      "clean_continuation": " n",
+      "corrupted_continuation": " m"
+    },
+    {
+      "clean_prompt": "Repeat the following character: $. The character is:",
+      "corrupted_prompt": "Repeat the following character: %. The character is:",
+      "clean_continuation": " $",
+      "corrupted_continuation": " %"
+    },
+    {
+      "clean_prompt": "Repeat the following character: %. The character is:",
+      "corrupted_prompt": "Repeat the following character: $. The character is:",
+      "clean_continuation": " %",
+      "corrupted_continuation": " $"
+    }
+  ]
+}

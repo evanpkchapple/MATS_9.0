@@ -1,0 +1,124 @@
+{
+  "prompt_pairs": [
+    {
+      "clean_prompt": "The string is AAABB. The character that appears most is",
+      "corrupted_prompt": "The string is ABABB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is ABABB. The character that appears most is",
+      "corrupted_prompt": "The string is AAABB. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BABAAAA. The character that appears most is",
+      "corrupted_prompt": "The string is BABABBA. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is BABABBA. The character that appears most is",
+      "corrupted_prompt": "The string is BABAAAA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BBBABAA. The character that appears most is",
+      "corrupted_prompt": "The string is ABBABAA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is ABBABAA. The character that appears most is",
+      "corrupted_prompt": "The string is BBBABAA. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AAAAAABBB. The character that appears most is",
+      "corrupted_prompt": "The string is AABABABBB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AABABABBB. The character that appears most is",
+      "corrupted_prompt": "The string is AAAAAABBB. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BBBAABABB. The character that appears most is",
+      "corrupted_prompt": "The string is BBAAABAAA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BBAAABAAA. The character that appears most is",
+      "corrupted_prompt": "The string is BBBAABABB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AABBAABBAAA. The character that appears most is",
+      "corrupted_prompt": "The string is AABBAABBAAB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AABBAABBAAB. The character that appears most is",
+      "corrupted_prompt": "The string is AABBAABBAAA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is ABABABABABA. The character that appears most is",
+      "corrupted_prompt": "The string is BBABABABABA. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is BBABABABABA. The character that appears most is",
+      "corrupted_prompt": "The string is ABABABABABA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BBBBBBAAAAA. The character that appears most is",
+      "corrupted_prompt": "The string is AABABBAAAAA. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is AABABBAAAAA. The character that appears most is",
+      "corrupted_prompt": "The string is BBBBBBAAAAA. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AAAAAAAAAAB. The character that appears most is",
+      "corrupted_prompt": "The string is AAAAABBBBBB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is AAAAABBBBBB. The character that appears most is",
+      "corrupted_prompt": "The string is AAAAAAAAAAB. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "The string is BABABABABABAB. The character that appears most is",
+      "corrupted_prompt": "The string is BBBABABABABAB. The character that appears most is",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "The string is BBBABABABABAB. The character that appears most is",
+      "corrupted_prompt": "The string is BABABABABABAB. The character that appears most is",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    }
+  ]
+}

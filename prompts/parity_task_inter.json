@@ -1,0 +1,124 @@
+{
+  "prompt_pairs": [
+    {
+      "clean_prompt": "The binary string is 1010. The parity of the string is",
+      "corrupted_prompt": "The binary string is 1011. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 1011. The parity of the string is",
+      "corrupted_prompt": "The binary string is 1010. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 11000. The parity of the string is",
+      "corrupted_prompt": "The binary string is 01000. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 01000. The parity of the string is",
+      "corrupted_prompt": "The binary string is 11000. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 111100. The parity of the string is",
+      "corrupted_prompt": "The binary string is 111000. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 111000. The parity of the string is",
+      "corrupted_prompt": "The binary string is 111100. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 0000000. The parity of the string is",
+      "corrupted_prompt": "The binary string is 1000000. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 1000000. The parity of the string is",
+      "corrupted_prompt": "The binary string is 0000000. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 10101010. The parity of the string is",
+      "corrupted_prompt": "The binary string is 10101011. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 10101011. The parity of the string is",
+      "corrupted_prompt": "The binary string is 10101010. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 11111111. The parity of the string is",
+      "corrupted_prompt": "The binary string is 11111110. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 11111110. The parity of the string is",
+      "corrupted_prompt": "The binary string is 11111111. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 100100110. The parity of the string is",
+      "corrupted_prompt": "The binary string is 100100100. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 100100100. The parity of the string is",
+      "corrupted_prompt": "The binary string is 100100110. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 010101010. The parity of the string is",
+      "corrupted_prompt": "The binary string is 110101010. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 110101010. The parity of the string is",
+      "corrupted_prompt": "The binary string is 010101010. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 1110001110. The parity of the string is",
+      "corrupted_prompt": "The binary string is 1110001111. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 1110001111. The parity of the string is",
+      "corrupted_prompt": "The binary string is 1110001110. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    },
+    {
+      "clean_prompt": "The binary string is 0011001100. The parity of the string is",
+      "corrupted_prompt": "The binary string is 0011001101. The parity of the string is",
+      "clean_continuation": " even",
+      "corrupted_continuation": " odd"
+    },
+    {
+      "clean_prompt": "The binary string is 0011001101. The parity of the string is",
+      "corrupted_prompt": "The binary string is 0011001100. The parity of the string is",
+      "clean_continuation": " odd",
+      "corrupted_continuation": " even"
+    }
+  ]
+}

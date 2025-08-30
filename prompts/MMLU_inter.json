@@ -1,0 +1,148 @@
+{
+  "prompt_pairs": [
+    {
+      "clean_prompt": "Question: An important source of information on the credit rating of retail businesses is\nA) the Retail Merchants Association\nB) the local chamber of commerce\nC) Dun & Bradstreet, Inc.\nD) the United States Retail Credit Association\nAnswer:",
+      "corrupted_prompt": "Question: An important source of information on the credit rating of retail businesses is\nA) Dun & Bradstreet, Inc.\nB) the local chamber of commerce\nC) the Retail Merchants Association\nD) the United States Retail Credit Association\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: An important source of information on the credit rating of retail businesses is\nA) Dun & Bradstreet, Inc.\nB) the local chamber of commerce\nC) the Retail Merchants Association\nD) the United States Retail Credit Association\nAnswer:",
+      "corrupted_prompt": "Question: An important source of information on the credit rating of retail businesses is\nA) the Retail Merchants Association\nB) the local chamber of commerce\nC) Dun & Bradstreet, Inc.\nD) the United States Retail Credit Association\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: Paper will burn at approximately what temperature in Fahrenheit?\nA) 986 degrees\nB) 2125 degrees\nC) 3985 degrees\nD) 451 degrees\nAnswer:",
+      "corrupted_prompt": "Question: Paper will burn at approximately what temperature in Fahrenheit?\nA) 986 degrees\nB) 451 degrees\nC) 3985 degrees\nD) 2125 degrees\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Question: Paper will burn at approximately what temperature in Fahrenheit?\nA) 986 degrees\nB) 451 degrees\nC) 3985 degrees\nD) 2125 degrees\nAnswer:",
+      "corrupted_prompt": "Question: Paper will burn at approximately what temperature in Fahrenheit?\nA) 986 degrees\nB) 2125 degrees\nC) 3985 degrees\nD) 451 degrees\nAnswer:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: What were the first names of the early American explorers Lewis and Clark?\nA) Morgan and Mason\nB) Meriwether and William\nC) Cabot and Joseph\nD) Meredith and George\nAnswer:",
+      "corrupted_prompt": "Question: What were the first names of the early American explorers Lewis and Clark?\nA) Morgan and Mason\nB) Meredith and George\nC) Cabot and Joseph\nD) Meriwether and William\nAnswer:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: What were the first names of the early American explorers Lewis and Clark?\nA) Morgan and Mason\nB) Meredith and George\nC) Cabot and Joseph\nD) Meriwether and William\nAnswer:",
+      "corrupted_prompt": "Question: What were the first names of the early American explorers Lewis and Clark?\nA) Morgan and Mason\nB) Meriwether and William\nC) Cabot and Joseph\nD) Meredith and George\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Question: In the film 'The Talented Mr Ripley' who plays Mr Ripley?\nA) Jude Law\nB) Matt Damon\nC) Dustin Hoffman\nD) Ben Affleck\nAnswer:",
+      "corrupted_prompt": "Question: In the film 'The Talented Mr Ripley' who plays Mr Ripley?\nA) Matt Damon\nB) Jude Law\nC) Dustin Hoffman\nD) Ben Affleck\nAnswer:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: In the film 'The Talented Mr Ripley' who plays Mr Ripley?\nA) Matt Damon\nB) Jude Law\nC) Dustin Hoffman\nD) Ben Affleck\nAnswer:",
+      "corrupted_prompt": "Question: In the film 'The Talented Mr Ripley' who plays Mr Ripley?\nA) Jude Law\nB) Matt Damon\nC) Dustin Hoffman\nD) Ben Affleck\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Question: What French city is home to a famous international film festival each spring?\nA) Cannes\nB) Marseille\nC) Dijon\nD) Lyon\nAnswer:",
+      "corrupted_prompt": "Question: What French city is home to a famous international film festival each spring?\nA) Lyon\nB) Marseille\nC) Dijon\nD) Cannes\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: What French city is home to a famous international film festival each spring?\nA) Lyon\nB) Marseille\nC) Dijon\nD) Cannes\nAnswer:",
+      "corrupted_prompt": "Question: What French city is home to a famous international film festival each spring?\nA) Cannes\nB) Marseille\nC) Dijon\nD) Lyon\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: What do you call three consecutive strikes in bowling?\nA) yahtzee\nB) mulligan\nC) turkey\nD) ace\nAnswer:",
+      "corrupted_prompt": "Question: What do you call three consecutive strikes in bowling?\nA) yahtzee\nB) turkey\nC) mulligan\nD) ace\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Question: What do you call three consecutive strikes in bowling?\nA) yahtzee\nB) turkey\nC) mulligan\nD) ace\nAnswer:",
+      "corrupted_prompt": "Question: What do you call three consecutive strikes in bowling?\nA) yahtzee\nB) mulligan\nC) turkey\nD) ace\nAnswer:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?\nA) 1 mol\nB) 2 mol\nC) 3 mol\nD) 6 mol\nAnswer:",
+      "corrupted_prompt": "Question: How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?\nA) 6 mol\nB) 2 mol\nC) 3 mol\nD) 1 mol\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?\nA) 6 mol\nB) 2 mol\nC) 3 mol\nD) 1 mol\nAnswer:",
+      "corrupted_prompt": "Question: How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?\nA) 1 mol\nB) 2 mol\nC) 3 mol\nD) 6 mol\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: Who led the 1831 slave insurrection in Southampton, Virginia?\nA) John Brown\nB) Dred Scott\nC) Nat Turner\nD) Harriet Tubman\nAnswer:",
+      "corrupted_prompt": "Question: Who led the 1831 slave insurrection in Southampton, Virginia?\nA) John Brown\nB) Nat Turner\nC) Dred Scott\nD) Harriet Tubman\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " B"
+    },
+    {
+      "clean_prompt": "Question: Who led the 1831 slave insurrection in Southampton, Virginia?\nA) John Brown\nB) Nat Turner\nC) Dred Scott\nD) Harriet Tubman\nAnswer:",
+      "corrupted_prompt": "Question: Who led the 1831 slave insurrection in Southampton, Virginia?\nA) John Brown\nB) Dred Scott\nC) Nat Turner\nD) Harriet Tubman\nAnswer:",
+      "clean_continuation": " B",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: Which of these bones is located in the wrist?\nA) Patella\nB) Humerus\nC) Carpals\nD) Coccyx\nAnswer:",
+      "corrupted_prompt": "Question: Which of these bones is located in the wrist?\nA) Patella\nB) Coccyx\nC) Humerus\nD) Carpals\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: Which of these bones is located in the wrist?\nA) Patella\nB) Coccyx\nC) Humerus\nD) Carpals\nAnswer:",
+      "corrupted_prompt": "Question: Which of these bones is located in the wrist?\nA) Patella\nB) Humerus\nC) Carpals\nD) Coccyx\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: What is the largest animal ever to live on Earth?\nA) blue whale\nB) giant squid\nC) woolly mammoth\nD) Tyrannosaurus\nAnswer:",
+      "corrupted_prompt": "Question: What is the largest animal ever to live on Earth?\nA) Tyrannosaurus\nB) giant squid\nC) woolly mammoth\nD) blue whale\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " D"
+    },
+    {
+      "clean_prompt": "Question: What is the largest animal ever to live on Earth?\nA) Tyrannosaurus\nB) giant squid\nC) woolly mammoth\nD) blue whale\nAnswer:",
+      "corrupted_prompt": "Question: What is the largest animal ever to live on Earth?\nA) blue whale\nB) giant squid\nC) woolly mammoth\nD) Tyrannosaurus\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: People are supposed to drive on the left-hand side of the road in which country?\nA) France\nB) Italy\nC) England\nD) Germany\nAnswer:",
+      "corrupted_prompt": "Question: People are supposed to drive on the left-hand side of the road in which country?\nA) England\nB) Italy\nC) France\nD) Germany\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " A"
+    },
+    {
+      "clean_prompt": "Question: People are supposed to drive on the left-hand side of the road in which country?\nA) England\nB) Italy\nC) France\nD) Germany\nAnswer:",
+      "corrupted_prompt": "Question: People are supposed to drive on the left-hand side of the road in which country?\nA) France\nB) Italy\nC) England\nD) Germany\nAnswer:",
+      "clean_continuation": " A",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: In what forest did Robin Hood live?\nA) Black Forest\nB) Petrified Forest\nC) Nottingham Forest\nD) Sherwood Forest\nAnswer:",
+      "corrupted_prompt": "Question: In what forest did Robin Hood live?\nA) Black Forest\nB) Petrified Forest\nC) Sherwood Forest\nD) Nottingham Forest\nAnswer:",
+      "clean_continuation": " D",
+      "corrupted_continuation": " C"
+    },
+    {
+      "clean_prompt": "Question: In what forest did Robin Hood live?\nA) Black Forest\nB) Petrified Forest\nC) Sherwood Forest\nD) Nottingham Forest\nAnswer:",
+      "corrupted_prompt": "Question: In what forest did Robin Hood live?\nA) Black Forest\nB) Petrified Forest\nC) Nottingham Forest\nD) Sherwood Forest\nAnswer:",
+      "clean_continuation": " C",
+      "corrupted_continuation": " D"
+    }
+  ]
+}
